@@ -1,0 +1,25 @@
+.home{
+    background-image: url(../../../public/5515549.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+}
+.mostafa{
+    position: absolute;
+    left: 30px;
+    top: 40%;
+    color: aliceblue;
+    text-align: center;
+    h1{
+        font-size: 50px;
+    }
+}
+.contant{
+    width: 120px;
+    height: 40px;
+    color: aliceblue;
+    background-color: transparent;
+    margin-top: 20px;
+    cursor: pointer;
+}

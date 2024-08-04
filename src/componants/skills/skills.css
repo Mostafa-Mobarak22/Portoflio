@@ -1,0 +1,40 @@
+.skill{
+    padding: 100px;
+    background-color: rgb(92, 92, 92);
+    text-align: center;
+    color: aliceblue;
+    h1{
+        font-size: 50px;
+        font-weight: 400;
+        margin-bottom: 35px;
+    }
+    p{
+        line-height: 30px;
+        margin-bottom: 30px;
+    }
+}
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.focus h3{
+    border-bottom: 2px solid aliceblue;
+    padding-bottom: 10px;
+}
+.focus ul{
+    list-style: none;
+    margin-left: -35px;
+    li{
+        padding-block: 10px;
+    }
+}
+.pers{
+    width: 70%;
+    height: 30px;
+    margin-left: -16px;
+}
+.lang{
+    width: 25%;
+    background-color: gray;
+}
